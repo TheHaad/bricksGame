@@ -1,4 +1,4 @@
-# bricksGame
+# bricks game
 Bricks Game created as part of Chris DeLeon's course
 
 Bricks aka Breakout? game created with JS and Canvas
